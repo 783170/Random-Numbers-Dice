@@ -14,3 +14,6 @@ A project from the fall of my senior year of high school (2021-2022) that focuse
         + Each of these arrays held 7 arrays that would coorispond to the 7 posible **dot locations**
         + Each dot loaction corresponded to an array that held the **RGB value** for that dot loaction at that roll number
         + In this model every dot was draw every time, however some of the dots had a fill color that matched the dice background color to give the appearance of fewer dots
++ Finally, to make my project a bit more unique I had the dice roll after each click, and after three clicks the number of dice inceases then decreases
+    + here is a version where you [manually click](https://editor.p5js.org/783170/full/J7q9KSfYC)
+    + here is a version that is [automated](https://editor.p5js.org/783170/full/8zOdvpMXl)
